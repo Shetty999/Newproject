@@ -34,6 +34,7 @@ import java.io.IOException;
                 System.out.print(" "+"|");
             }
             System.out.println();
+            System.out.println();
         }
 
     }
