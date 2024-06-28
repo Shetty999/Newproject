@@ -1,4 +1,5 @@
 Feature: Admin
+  Background:
 Scenario: Add new Admin
 Given User launch crome browser
 When  user opens url "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
