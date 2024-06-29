@@ -34,7 +34,7 @@ import java.io.IOException;
                 System.out.print(" "+"|");
             }
             System.out.println();
-            System.out.println("not trail");
+            System.out.println();
         }
 
     }
