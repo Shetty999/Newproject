@@ -33,7 +33,7 @@ import java.io.IOException;
                 }
                 System.out.print(" "+"|");
             }
-            System.out.println();
+            System.out.println("ak");
             System.out.println();
         }
 
